@@ -55,4 +55,4 @@ CONSTRAINT fk_produ FOREIGN KEY(id_producto) REFERENCES productos(id_producto)
 
 
 
-a
+
